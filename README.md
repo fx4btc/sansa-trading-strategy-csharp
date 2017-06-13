@@ -102,7 +102,7 @@ Quick Start
 ```sh
 git clone https://github.com/victormartingarcia/sansa-trading-strategy-csharp
 ```
-* Open Visual Studio and load solution _SansaStrategy/SansaStrategy.sln_
+* Open Visual Studio and load solution _Sansa/Sansa.sln_
 * Edit _app.config_ file adding your TradingMotionAPI credentials on _appSettings_ section
 
 And you're all set!
@@ -136,7 +136,7 @@ I am R&D engineer at [TradingMotion LLC], and head of [TradingMotion SDK] platfo
 
   [VB.net port]: https://github.com/victormartingarcia/arya-trading-strategy-vbnet
   [TradingMotion SDK]: http://sdk.tradingmotion.com
-  [SansaStrategy.cs]: SansaStrategy/SansaStrategy.cs
+  [SansaStrategy.cs]: Sansa/SansaStrategy.cs
   [iSystems platform]: https://www.isystems.com
   [iSystems.com]: https://www.isystems.com
   [iSystems]: https://www.isystems.com
